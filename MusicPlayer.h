@@ -54,7 +54,7 @@ class MusicPlayer{
   void DisplayPlaylist();
  private:
   vector<Song*> m_songCatalog; //Holds all songs in file
-  Tqueue<Song, 3000> m_playList; //Holds all songs in play list
+  Tqueue<Song, 3000> m_playList; //Holds all songs in playlist (chosen by user)
 };
 
 
