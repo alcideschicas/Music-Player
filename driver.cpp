@@ -13,11 +13,11 @@
 
 int main (int argc, char* argv[]) {
   string musicFile;
-  cout << "Welcome to UMBC Music Player"<<endl;
+  cout << "Welcome to UMBC Music Player" << endl;
   if(argc > 1){
     musicFile = argv[1];
   } else{
-    cout << "One music files required - try again" << endl;
+    cout << "One music file required - try again" << endl;
     cout << "./proj5 p5_music1.txt" << endl;
     return 0;
   }
