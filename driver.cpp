@@ -5,7 +5,6 @@
     Section: 03                                                                                                                                                                     
     E-mail:  al30@umbc.edu                                                                                                                                                          
     Description: Driver that creates a Music player and calls its main menu to run it */
-// I can make it better by disallowing users to choose song out of the year and removing songs from the playlist
 
 #include <iostream>
 #include "MusicPlayer.h"
