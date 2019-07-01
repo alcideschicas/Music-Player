@@ -1,8 +1,7 @@
 /*  File:    Song.h                                                                                                                                                               
     Project: CMSC 202 Project 5, Fall 2017                                                                                                                                          
     Author:  Alcides Chicas                                                                                                                                                         
-    Date:    11/30/17                                                                                                                                                               
-    Section: 03                                                                                                                                                                     
+    Date:    11/30/17                                                                                                                                                                                                                                                                                                                                    
     E-mail:  al30@umbc.edu                                                                                                                                                          
     Description: Header file for Song */
 
