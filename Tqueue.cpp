@@ -66,7 +66,7 @@ private:
   int m_back; //Back of the queue
 };
 
-//**** Add class definition below ****
+//**** Class definition below ****
 
 template <class T, int N>
 Tqueue<T,N>::Tqueue() {
